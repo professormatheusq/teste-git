@@ -6,3 +6,4 @@ As questoes sao
 
 1. main
 2. TADs e Structs
+3. Novo exercício c
